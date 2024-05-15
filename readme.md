@@ -8,7 +8,7 @@
 покупатели:\
 ![Случайные покупатели](https://github.com/zongrade/graph/raw/main/buyers_new.png)\
 посетители:\
-![Случайные посетители](https://github.com/zongrade/graph/raw/main/viewvers.png.png)\
+![Случайные посетители](https://github.com/zongrade/graph/raw/main/viewvers.png)\
 конверсия:\
 ![Случайная конверсия](https://github.com/zongrade/graph/raw/main/conversion.png)\
 доход:\
